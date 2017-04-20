@@ -1,5 +1,8 @@
 # learning_resource
 
+#Computer science and web development curricullums
+- https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516 - full @p1xt gudie
+- https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027 - job ready short @p1xt gudie
 
 #API
 - https://zapier.com/learn/apis/ great introduction to know what API is. No coding examples!
