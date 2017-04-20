@@ -1,5 +1,6 @@
 # learning_resource
 
+
 #API
 - https://zapier.com/learn/apis/ great introduction to know what API is. No coding examples!
 - https://www.youtube.com/watch?v=rJesac0_Ftw&t=707s video from LearnWebCode with coding examples. Covers in details what is JSON and how use JavaScript with API.
@@ -7,3 +8,9 @@
 
 #Front-end-Developer-Interview-Questions
  - https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/Translations/Polish/README.md Pytania kwalifikacyjne na stanowisko front-end web developera
+ 
+ #Scope & Closures
+ - https://www.youtube.com/watch?v=CQqwU2Ixu-U - FunFunFunction video about closures. Short but explainins basic about this concept
+ - https://www.youtube.com/watch?v=71AtaJpJHw0&t - Techsith video about closures. Short but explainins basic about this concept
+ - http://blog.nebula.us/13-javascript-closures-czyli-zrozumiec-i-wykorzystac-domkniecia - very good in deph article about closures
+ - https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures - YDNJS series about scope and closures. Pretty dense but holistic and with lot of details.
