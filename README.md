@@ -18,3 +18,8 @@
  - http://blog.nebula.us/13-javascript-closures-czyli-zrozumiec-i-wykorzystac-domkniecia - very good in deph article about closures
  - https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures - YDNJS series about scope and closures. Pretty dense but holistic and with lot of details.
  - https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c JavaScript Scopes and Closures In-depth series from JavaBrains. Great add on to YDNJS as it also provides detailed explanations!
+
+#this, bind, call, apply
+- https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes YDNJS this&prototypes:1st and 2nd chapter
+- https://www.youtube.com/watch?v=GhbhD1HR5vk funfunfunction about this and bind
+- https://www.youtube.com/watch?v=c0mLRpw-9rI techsith about call, apply and bind
