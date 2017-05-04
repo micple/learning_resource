@@ -23,4 +23,5 @@
 - https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes YDNJS this&prototypes:1st and 2nd chapter
 - https://www.youtube.com/watch?v=GhbhD1HR5vk funfunfunction about this and bind
 - https://www.youtube.com/watch?v=c0mLRpw-9rI techsith about call, apply and bind
+- https://www.youtube.com/watch?v=yuo8YqKDQ-M Understanding Javascript this in a crystal clear way by That JS Dude; quite detailed tut on the topic
 - https://leanpub.com/javascriptallongesix/read#this JavaScript Allongé on this
