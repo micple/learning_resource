@@ -14,6 +14,7 @@
  
  #Scope & Closures
  - https://www.youtube.com/watch?v=CQqwU2Ixu-U - FunFunFunction video about closures. Short but explainins basic about this concept
+ - https://www.youtube.com/watch?v=sjyJBL5fkp8 - FunFunFunction: var, let and const - What, why and how
  - https://www.youtube.com/watch?v=71AtaJpJHw0&t - Techsith video about closures. Short but explainins basic about this concept
  - http://blog.nebula.us/13-javascript-closures-czyli-zrozumiec-i-wykorzystac-domkniecia - very good in deph article about closures
  - https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures - YDNJS series about scope and closures. Pretty dense but holistic and with lot of details.
